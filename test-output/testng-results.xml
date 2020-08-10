@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="546" started-at="2020-07-06T11:47:15Z" finished-at="2020-07-06T11:47:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="546" started-at="2020-07-06T11:47:15Z" finished-at="2020-07-06T11:47:15Z">
+      <class name="TestCases.HomeTestCases">
+        <test-method status="PASS" signature="luanchBrowser()[pri:0, instance:TestCases.HomeTestCases@ebffc442]" name="luanchBrowser" is-config="true" duration-ms="15249" started-at="2020-07-06T17:16:59Z" finished-at="2020-07-06T17:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- luanchBrowser -->
+        <test-method status="PASS" signature="validateURL()[pri:0, instance:TestCases.HomeTestCases@ebffc442]" name="validateURL" duration-ms="25" started-at="2020-07-06T17:17:15Z" finished-at="2020-07-06T17:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateURL -->
+        <test-method status="PASS" signature="validatetitle()[pri:0, instance:TestCases.HomeTestCases@ebffc442]" name="validatetitle" duration-ms="15" started-at="2020-07-06T17:17:15Z" finished-at="2020-07-06T17:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetitle -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:TestCases.HomeTestCases@ebffc442]" name="signin" duration-ms="480" started-at="2020-07-06T17:17:15Z" finished-at="2020-07-06T17:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+      </class> <!-- TestCases.HomeTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
